@@ -14,3 +14,6 @@ MVC모델을 적용한 블로그(게시판) 만들기 - 3. Model (DB 처리 하�
 MVC Project - Assignment Handler (YOUTUBE)
 Create a PHP Application | PHP MVC Project Tutorial
 https://www.youtube.com/watch?v=Rkg731t47dc
+
+MVC - Model, View, Controller의 올바른 역할 분담
+https://stackoverflow.com/questions/18949844/how-to-correctly-pass-data-from-controller-to-view
