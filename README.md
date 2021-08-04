@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=Rkg731t47dc
 
 MVC - Model, View, Controller의 올바른 역할 분담
 https://stackoverflow.com/questions/18949844/how-to-correctly-pass-data-from-controller-to-view
+
+## css
+Flexbox를 이용해서 footer를 항상 아래에 위치시키는 방법
+https://dev.to/akshay_rajput/keep-footer-at-bottom-of-page-using-flexbox-4a6f
