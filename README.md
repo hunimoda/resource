@@ -21,3 +21,8 @@ https://stackoverflow.com/questions/18949844/how-to-correctly-pass-data-from-con
 ## css
 Flexbox를 이용해서 footer를 항상 아래에 위치시키는 방법
 https://dev.to/akshay_rajput/keep-footer-at-bottom-of-page-using-flexbox-4a6f
+
+# tcp/ip
+패킷이 네트워크 상에서 전달되는 방법 - datalink(L2), ip(L3) 헤더를 중심으로
+:: MAC/IP Destination & Source Address
+https://www.practicalnetworking.net/series/packet-traveling/packet-traveling/
